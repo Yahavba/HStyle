@@ -25,16 +25,16 @@ This Project was created with **Python, FastAPI, TensorFlow, Keras, OpenCV, Angu
 ## Project Research
 
 In order to understand the steps and what we did you are welcome to look at 
-the [**Project Book**](https://github.com/Yahavba/HStyle/blob/master/research/Project_Book.pdf).
+the [**Project Book**](https://github.com/Yahavba/HStyle/blob/master/documentation/Project_Book.pdf).
 
 ## Project Setup and Run
-In order to run this project with docker your environment  needs to support  TensorFlow Docker. you can follow this [**link**](https://www.tensorflow.org/install/docker) to get everything set settled.
+In order to run this project with docker your environment needs to support TensorFlow Docker. You can follow this [**link**](https://www.tensorflow.org/install/docker) to get everything set settled.
 
 ### Run on local environment:
 1. Clone this repository.
 2. Open cmd/shell/terminal and go to application folder: `cd Hstyle/app`
 3. Run the docker-compose file: `docker-compose -f docker-compose-local.yml up`
-4. Open this [link](http://localhost:3000/)
+4. Open this [link](http://localhost:3000/).
 5. Enjoy the application.
 
 ### Run on production environment:

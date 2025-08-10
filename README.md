@@ -47,7 +47,7 @@ In order to run this project with docker your environment needs to support Tenso
 7. Enjoy the application.
 
 ## Demo
-[![HStyle Demo](http://img.youtube.com/vi/7kMRTxFQWQo/0.jpg)](http://www.youtube.com/watch?v=7kMRTxFQWQo "HStyle Demo")
+[![HStyle Demo](http://img.youtube.com/vi/FmtVMesltB8/0.jpg)](https://www.youtube.com/watch?v=FmtVMesltB8 "HStyle Demo")
 
 
 ## Examples

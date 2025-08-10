@@ -1,8 +1,3 @@
-![Angular linting badge](https://github.com/Yahavba/HStyle/workflows/Server_side_linting/badge.svg)
-![Angular coverage badge](https://github.com/Yahavba/HStyle/workflows/Server_side_coverage/badge.svg)
-![Python linting badge](https://github.com/Yahavba/HStyle/workflows/Client_side_linting/badge.svg)
-![Python coverage badge](https://github.com/Yahavba/HStyle/workflows/Client_side_coverage/badge.svg)
-
 # Hstyle
 
 Historical documents can reveal a great deal of information about our past, such as, form of writing, 
